@@ -9,7 +9,7 @@ covers 2024-09-03 → 2025-03-13; the hidden test set is the following ~7 weeks
 (2025-03-13 → 2025-04-29), split into a near **private** half and a warmer
 **public** half.
 
-**Final public-leaderboard score: 1.10921.**
+**Final public-leaderboard score: 1.10944.**
 
 ---
 
@@ -21,6 +21,8 @@ covers 2024-09-03 → 2025-03-13; the hidden test set is the following ~7 weeks
 | `model_b5r_a309.R` | Standalone R script of the final model (same pipeline as the notebook). |
 | `model_b5r_tune_standalone.R` | Two-regime hyperparameter search for the base layers (L1–L3). Optional. |
 | `weather_vienna.rds` | **Frozen** hourly weather cache (open-meteo), shipped for reproducibility. |
+| `gtfs_transit_features.rds`| **Frozen** hourly weather cache (open-meteo), shipped for reproducibility. |
+| `station_elevation.rds`| **Frozen** hourly weather cache (open-meteo), shipped for reproducibility. |
 | `submission.csv` | The graded prediction file. |
 
 `train.csv` / `test.csv` are the competition data files (from Kaggle).
