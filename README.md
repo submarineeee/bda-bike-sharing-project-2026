@@ -17,7 +17,7 @@ covers 2024-09-03 → 2025-03-13; the hidden test set is the following ~7 weeks
 
 | File | Description |
 |---|---|
-| `BDA_Report_Project2_RuiDai_ShuimeiJin_SS26.ipynb` | Main report notebook (R kernel). Full workflow: EDA → XGBoost attempt → final layered model → evaluation. Running it top-to-bottom writes `submission.csv`. |
+| `bda_report_project2_ruidai_shuimeijin_ss26.ipynb` | Main report notebook (R kernel). Full workflow: EDA → XGBoost attempt → final layered model → evaluation. Running it top-to-bottom writes `submission.csv`. |
 | `weather_vienna.rds` | **Frozen** hourly weather cache (open-meteo), shipped for reproducibility. |
 | `gtfs_transit_features.rds`| **Frozen** GTFS-derived transit features (Austrian public-transport timetable), shipped for reproducibility. |
 | `station_elevation.rds`| **Frozen** per-station elevation cache (open-meteo elevation API), shipped for reproducibility.  |
