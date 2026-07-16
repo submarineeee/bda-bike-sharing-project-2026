@@ -9,7 +9,7 @@ covers 2024-09-03 → 2025-03-13; the hidden test set is the following ~7 weeks
 (2025-03-13 → 2025-04-29), split into a near **private** half and a warmer
 **public** half.
 
-**Final public-leaderboard score: 1.10944.**
+**Final public-leaderboard score: 1.10944 and 1.10946.**
 
 ---
 
